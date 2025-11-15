@@ -1,13 +1,14 @@
-# Gift Shop Responsive Website Theme
+# قالب وب‌سایت واکنش‌گرا برای فروشگاه هدایا
 
-This is an amazing modern modular gift shop e-commerce responsive website theme built with pure HTML, CSS, and JavaScript. I didn’t use any CSS or JavaScript framework and built it with relatively new CSS techniques like flexbox and grid system.
+این یک قالب وب‌سایت واکنش‌گرای فروشگاه هدایا، ماژولار و مدرن برای تجارت الکترونیک است که با HTML و CSS و جاوا اسکریپت ساخته شده است. از هیچ چارچوب CSS یا جاوا اسکریپتی استفاده نکردم و آن را با تکنیک‌های CSS، مانند flexbox و سیستم grid ساختم.
 
-Gift shop theme, tested in the recent version of Chrome, Firefox, Edge, and Opera Browsers (September 2021) and passed all the tests. The tests included responsiveness to show theme good not just on desktop computers but on tablets and smartphones too.
+قالب فروشگاه هدایا، در نسخه‌های اخیر مرورگرهای Chrome و Firefox و Edge و Opera (سپتامبر 2021) آزمایش شده و تمام آزمایش‌ها را با موفقیت پشت سر گذاشته است. این آزمایش‌ها شامل واکنش‌گرایی بود تا اثربخشی قالب را نه تنها در رایانه‌های رومیزی، بلکه در تبلت‌ها و تلفن‌های هوشمند نیز نشان دهد.
 
-## See the Theme's Demo
+## نسخه نمایشی قالب
 
-You can [click on this link to see the theme's demo](https://alvand1399.github.io/gift-shop-theme/).
+شما می‌توانید [برای دیدن نسخه نمایشی قالب روی این لینک کلیک کنید](https://alvandwp.github.io/gift-shop).
 
-## Giving Credit to Others
 
-I used [Normalize](https://necolas.github.io/normalize.css/) for template compatibility and look the same in different browsers. [Fontawesome](https://fontawesome.com/) for icons and [Lato](https://fonts.google.com/specimen/Lato) font as font family used too. All of the images are free to use, and most of them are from [Unsplash](https://unsplash.com/). Thanks to [Amys Xain](https://disqus.com/by/amysxain/) for the theme’s Photoshop design.
+## اعتبار بخشیدن به دیگران
+
+من از [Normalize](https://necolas.github.io/normalize.css) برای سازگاری قالب استفاده کردم تا در مرورگرهای مختلف یکسان به نظر برسد. از [Fontawesome](https://fontawesome.com) برای آیکون‌ها و فونت [Lato](https://fonts.google.com/specimen/Lato) به عنوان خانواده فونت نیز استفاده شده است. استفاده از همه تصاویر رایگان بوده و بیشتر آنها از [Unsplash](https://unsplash.com) گرفته شده‌اند. با تشکر از [Amys Xain](https://disqus.com/by/amysxain) برای طراحی فتوشاپ قالب.
